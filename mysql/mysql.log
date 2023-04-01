@@ -1,0 +1,28 @@
+2023-03-27 14:50:52 0 [Note] mysqld (server 10.6.11-MariaDB) starting as process 10950 ...
+2023-03-27 14:50:52 0 [Note] InnoDB: Compressed tables use zlib 1.2.13
+2023-03-27 14:50:52 0 [Note] InnoDB: Number of pools: 1
+2023-03-27 14:50:52 0 [Note] InnoDB: Using crc32 + pclmulqdq instructions
+2023-03-27 14:50:52 0 [Note] InnoDB: Using liburing
+2023-03-27 14:50:52 0 [Note] InnoDB: Initializing buffer pool, total size = 134217728, chunk size = 134217728
+2023-03-27 14:50:52 0 [Note] InnoDB: Completed initialization of buffer pool
+2023-03-27 14:50:52 0 [Note] InnoDB: 128 rollback segments are active.
+2023-03-27 14:50:52 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2023-03-27 14:50:52 0 [Note] InnoDB: Setting file './ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2023-03-27 14:50:52 0 [Note] InnoDB: File './ibtmp1' size is now 12 MB.
+2023-03-27 14:50:52 0 [Note] InnoDB: 10.6.11 started; log sequence number 42120; transaction id 14
+2023-03-27 14:50:52 0 [Note] Plugin 'FEEDBACK' is disabled.
+2023-03-27 14:50:52 0 [Note] InnoDB: Loading buffer pool(s) from /home/sarvesh/Workdir/RSMM/mysql/data/ib_buffer_pool
+2023-03-27 14:50:52 0 [Note] InnoDB: Buffer pool(s) load completed at 230327 14:50:52
+2023-03-27 14:50:52 0 [Note] Server socket created on IP: '0.0.0.0'.
+2023-03-27 14:50:52 0 [Note] Server socket created on IP: '::'.
+2023-03-27 14:50:52 0 [Note] mysqld: ready for connections.
+Version: '10.6.11-MariaDB'  socket: '/home/sarvesh/Workdir/RSMM/mysql/mysql.sock'  port: 3306  MariaDB Server
+2023-03-27 15:23:04 0 [Note] mysqld (initiated by: root[root] @ localhost []): Normal shutdown
+2023-03-27 15:23:04 0 [Note] InnoDB: FTS optimize thread exiting.
+2023-03-27 15:23:04 0 [Note] InnoDB: Starting shutdown...
+2023-03-27 15:23:04 0 [Note] InnoDB: Dumping buffer pool(s) to /home/sarvesh/Workdir/RSMM/mysql/data/ib_buffer_pool
+2023-03-27 15:23:04 0 [Note] InnoDB: Buffer pool(s) dump completed at 230327 15:23:04
+2023-03-27 15:23:04 0 [Note] InnoDB: Removed temporary tablespace data file: "./ibtmp1"
+2023-03-27 15:23:04 0 [Note] InnoDB: Shutdown completed; log sequence number 42276; transaction id 15
+2023-03-27 15:23:04 0 [Note] mysqld: Shutdown complete
+
